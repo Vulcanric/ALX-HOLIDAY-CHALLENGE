@@ -1,2 +1,2 @@
-# Jingle Bells :confetti_ball:, Code Spells :sparkles: : ALX HOLIDAY CHALLENGE :christmas_tree:
+# Jingle Bells 🎊, Code Spells ✨: ALX HOLIDAY CHALLENGE 🎄
 
