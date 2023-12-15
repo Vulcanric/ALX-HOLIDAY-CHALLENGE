@@ -21,4 +21,4 @@ $ gcc christmas_art.c
 ```
 
 ## What you will see
-![alx-chritsmas-art]()
+[![alx-chritsmas-art](https://asciinema.org/a/PV5cIhMQBY4espiYk75ySz9aj.svg)](https://asciinema.org/a/PV5cIhMQBY4espiYk75ySz9aj)
